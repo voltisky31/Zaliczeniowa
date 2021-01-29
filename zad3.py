@@ -37,7 +37,7 @@ else:
         pytanie(pyt2, "a")
         print()
 
-        pyt3 = input("Wybierz A, B, C lub D: ")
+        pyt3 = input("Wybierz A, B, C lub D: ") # Reszty pytań już nie chciało mi się wymyślać
         pytanie(pyt3, "c")
         print()
 
